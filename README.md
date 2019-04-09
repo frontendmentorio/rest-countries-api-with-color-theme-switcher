@@ -25,7 +25,7 @@ Your users should be able to:
 - Click through to the border countries on the detail page
 - Change the color scheme from light to dark *(optional)*
 
-Want some support on the challenge? Join our Slack community and ask questions in the #help channel.
+Want some support on the challenge? Join our Slack community and ask questions in the **#help** channel.
 
 ## Where to find everything
 
