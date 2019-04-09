@@ -31,7 +31,7 @@ Want some support on the challenge? Join our Slack community and ask questions i
 
 Your task is to build out the project to the designs inside the `/design` folder. 
 
-In this challenge, you will find mobile and desktop designs in both light and dark mode color schemes.
+In this challenge, you will find mobile and desktop designs in light and dark mode color schemes for both pages.
 
 The designs are in JPG static format. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. This should help train your eye to perceive differences in spacings and sizes.
 
