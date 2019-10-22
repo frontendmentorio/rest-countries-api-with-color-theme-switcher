@@ -25,7 +25,7 @@ Your users should be able to:
 - Click through to the border countries on the detail page
 - Toggle the color scheme between light and dark mode *(optional)*
 
-Want some support on the challenge? Join our Slack community and ask questions in the **#help** channel.
+Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
 ## Where to find everything
 
@@ -65,7 +65,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 There are multiple places you can share your solution:
 
 1. Submit it on the platform so that other users will see your solution on the site. Other users will be able to give you feedback, which could help improve your code for the next project.
-2. Share your repository and live URL in the **#finished-projects** channel of the Slack community.
+2. Share your repository and live URL in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack).
 3. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor** including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
 
 ## Giving feedback
