@@ -1,6 +1,6 @@
 # Frontend Mentor - REST Countries API with color theme switcher
 
-![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)
+![Design preview for the REST Countries API with color theme switcher coding challenge](preview.jpg)
 
 ## Welcome! 👋
 
@@ -37,7 +37,7 @@ In this challenge, you will find mobile and desktop designs in light and dark mo
 
 The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+If you would like the Figma design file to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
 
 There are no assets for this challenge, as the country flags will be pulled from the [REST Countries API](https://restcountries.com) and you can use an icon font library for the icons.
 
@@ -93,7 +93,7 @@ The more specific you are with your questions the more likely it is that another
 
 ## Got feedback for us?
 
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
+We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi@frontendmentor.io.
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
